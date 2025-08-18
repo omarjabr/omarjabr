@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 👋 Hi, I’m Omar, a passionate full-stack web developer based in Beirut, Lebanon. I love crafting clean, efficient code and continuously learning new technologies to build impactful web applications. When I’m not coding, you’ll find me exploring the latest trends in web development and experimenting with new tools and frameworks.
 
 
